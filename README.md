@@ -46,4 +46,4 @@ I've also used other technologies, some examples below:
 <hr />
 
 ### Website 🔗
-<a href="https://www.stefanomartella.com">stefanomartella.com</a>
+<a href="https://www.stefanomartella.dev">stefanomartella.dev</a>
