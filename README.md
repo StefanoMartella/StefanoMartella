@@ -37,6 +37,10 @@ I've also used other technologies, some examples below:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StefanoMartella&repo=UnivaqPush&theme=calm" alt="UnivaqPush" />
 </a>
 
+<a href="https://github.com/StefanoMartella/UnivaqPush">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StefanoMartella&repo=bagisto-scalapay&theme=calm" alt="Bagisto Scalapay" />
+</a>
+
 ### Stats 📶
 
 <a href="https://github.com/StefanoMartella/StefanoMartella">
